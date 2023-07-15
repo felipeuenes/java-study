@@ -13,6 +13,7 @@ public class Loop {
             mediaAvaliacao += + nota;
         }
 
+
         System.out.println("Media de avaliação = "+ mediaAvaliacao/3);
     }
 
